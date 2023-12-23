@@ -1,6 +1,7 @@
 import winsound
 import time
 
+
 while True:
     cas = (input("Napiš čas, který potřebuješ nastavit, vše udávej v sekundách: "))
     try:
@@ -12,7 +13,7 @@ while True:
             else:
                 print(float(i), end= '\r')                            
         
-        winsound.Beep(200, 3000)
+        winsound.Beep(200, 5000)
         
             
     except ValueError:
