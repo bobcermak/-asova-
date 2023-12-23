@@ -10,6 +10,8 @@ for i in range(1,konecCas):
                             
 if konecCas:
     winsound.Beep(200, 5000)
+
+
             
         
         
