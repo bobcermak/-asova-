@@ -1,0 +1,2 @@
+# Časovač
+# Autor: Bob Čermák
